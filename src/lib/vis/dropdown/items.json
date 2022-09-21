@@ -1,0 +1,1657 @@
+[
+    {
+        "areacd": "E07000223",
+        "areanm": "Adur",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000026",
+        "areanm": "Allerdale",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000032",
+        "areanm": "Amber Valley",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000224",
+        "areanm": "Arun",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000170",
+        "areanm": "Ashfield",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000105",
+        "areanm": "Ashford",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000200",
+        "areanm": "Babergh",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E09000002",
+        "areanm": "Barking and Dagenham",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E09000003",
+        "areanm": "Barnet",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E08000016",
+        "areanm": "Barnsley",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E07000027",
+        "areanm": "Barrow-in-Furness",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000066",
+        "areanm": "Basildon",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000084",
+        "areanm": "Basingstoke and Deane",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000171",
+        "areanm": "Bassetlaw",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000022",
+        "areanm": "Bath and North East Somerset",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E06000055",
+        "areanm": "Bedford",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E09000004",
+        "areanm": "Bexley",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E08000025",
+        "areanm": "Birmingham",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000129",
+        "areanm": "Blaby",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000008",
+        "areanm": "Blackburn with Darwen",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E06000009",
+        "areanm": "Blackpool",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "W06000019",
+        "areanm": "Blaenau Gwent",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000033",
+        "areanm": "Bolsover",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E08000001",
+        "areanm": "Bolton",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000136",
+        "areanm": "Boston",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000058",
+        "areanm": "Bournemouth, Christchurch and Poole",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E06000036",
+        "areanm": "Bracknell Forest",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E08000032",
+        "areanm": "Bradford",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E07000067",
+        "areanm": "Braintree",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000143",
+        "areanm": "Breckland",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E09000005",
+        "areanm": "Brent",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000068",
+        "areanm": "Brentwood",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "W06000013",
+        "areanm": "Bridgend",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E06000043",
+        "areanm": "Brighton and Hove",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E06000023",
+        "areanm": "Bristol",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000144",
+        "areanm": "Broadland",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E09000006",
+        "areanm": "Bromley",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000234",
+        "areanm": "Bromsgrove",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000095",
+        "areanm": "Broxbourne",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000172",
+        "areanm": "Broxtowe",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000060",
+        "areanm": "Buckinghamshire",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000117",
+        "areanm": "Burnley",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E08000002",
+        "areanm": "Bury",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "W06000018",
+        "areanm": "Caerphilly",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E08000033",
+        "areanm": "Calderdale",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E07000008",
+        "areanm": "Cambridge",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E09000007",
+        "areanm": "Camden",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000192",
+        "areanm": "Cannock Chase",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000106",
+        "areanm": "Canterbury",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "W06000015",
+        "areanm": "Cardiff",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000028",
+        "areanm": "Carlisle",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "W06000010",
+        "areanm": "Carmarthenshire",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000069",
+        "areanm": "Castle Point",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E06000056",
+        "areanm": "Central Bedfordshire",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "W06000008",
+        "areanm": "Ceredigion",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000130",
+        "areanm": "Charnwood",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000070",
+        "areanm": "Chelmsford",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000078",
+        "areanm": "Cheltenham",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000177",
+        "areanm": "Cherwell",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E06000049",
+        "areanm": "Cheshire East",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E06000050",
+        "areanm": "Cheshire West and Chester",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000034",
+        "areanm": "Chesterfield",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000225",
+        "areanm": "Chichester",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000118",
+        "areanm": "Chorley",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E09000001",
+        "areanm": "City of London",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000071",
+        "areanm": "Colchester",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "W06000003",
+        "areanm": "Conwy",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000029",
+        "areanm": "Copeland",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E06000052",
+        "areanm": "Cornwall",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000079",
+        "areanm": "Cotswold",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E06000047",
+        "areanm": "County Durham",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E08000026",
+        "areanm": "Coventry",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000163",
+        "areanm": "Craven",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E07000226",
+        "areanm": "Crawley",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E09000008",
+        "areanm": "Croydon",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000096",
+        "areanm": "Dacorum",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E06000005",
+        "areanm": "Darlington",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E07000107",
+        "areanm": "Dartford",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "W06000004",
+        "areanm": "Denbighshire",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E06000015",
+        "areanm": "Derby",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000035",
+        "areanm": "Derbyshire Dales",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E08000017",
+        "areanm": "Doncaster",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E06000059",
+        "areanm": "Dorset",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000108",
+        "areanm": "Dover",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E08000027",
+        "areanm": "Dudley",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E09000009",
+        "areanm": "Ealing",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000009",
+        "areanm": "East Cambridgeshire",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000040",
+        "areanm": "East Devon",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000085",
+        "areanm": "East Hampshire",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000242",
+        "areanm": "East Hertfordshire",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000137",
+        "areanm": "East Lindsey",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000011",
+        "areanm": "East Riding of Yorkshire",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E07000193",
+        "areanm": "East Staffordshire",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000244",
+        "areanm": "East Suffolk",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000061",
+        "areanm": "Eastbourne",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000086",
+        "areanm": "Eastleigh",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000030",
+        "areanm": "Eden",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000207",
+        "areanm": "Elmbridge",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E09000010",
+        "areanm": "Enfield",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000072",
+        "areanm": "Epping Forest",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000208",
+        "areanm": "Epsom and Ewell",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000036",
+        "areanm": "Erewash",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000041",
+        "areanm": "Exeter",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000087",
+        "areanm": "Fareham",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000010",
+        "areanm": "Fenland",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "W06000005",
+        "areanm": "Flintshire",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000112",
+        "areanm": "Folkestone and Hythe",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000080",
+        "areanm": "Forest of Dean",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000119",
+        "areanm": "Fylde",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E08000037",
+        "areanm": "Gateshead",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E07000173",
+        "areanm": "Gedling",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000081",
+        "areanm": "Gloucester",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000088",
+        "areanm": "Gosport",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000109",
+        "areanm": "Gravesham",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000145",
+        "areanm": "Great Yarmouth",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E09000011",
+        "areanm": "Greenwich",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000209",
+        "areanm": "Guildford",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "W06000002",
+        "areanm": "Gwynedd",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E09000012",
+        "areanm": "Hackney",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E06000006",
+        "areanm": "Halton",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000164",
+        "areanm": "Hambleton",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E09000013",
+        "areanm": "Hammersmith and Fulham",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000131",
+        "areanm": "Harborough",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E09000014",
+        "areanm": "Haringey",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000073",
+        "areanm": "Harlow",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000165",
+        "areanm": "Harrogate",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E09000015",
+        "areanm": "Harrow",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000089",
+        "areanm": "Hart",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E06000001",
+        "areanm": "Hartlepool",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E07000062",
+        "areanm": "Hastings",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000090",
+        "areanm": "Havant",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E09000016",
+        "areanm": "Havering",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E06000019",
+        "areanm": "Herefordshire",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000098",
+        "areanm": "Hertsmere",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000037",
+        "areanm": "High Peak",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E09000017",
+        "areanm": "Hillingdon",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000132",
+        "areanm": "Hinckley and Bosworth",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000227",
+        "areanm": "Horsham",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E09000018",
+        "areanm": "Hounslow",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000011",
+        "areanm": "Huntingdonshire",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000120",
+        "areanm": "Hyndburn",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000202",
+        "areanm": "Ipswich",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "W06000001",
+        "areanm": "Isle of Anglesey",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E06000046",
+        "areanm": "Isle of Wight",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E06000053",
+        "areanm": "Isles of Scilly",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E09000019",
+        "areanm": "Islington",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E09000020",
+        "areanm": "Kensington and Chelsea",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000146",
+        "areanm": "King's Lynn and West Norfolk",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E06000010",
+        "areanm": "Kingston upon Hull",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E09000021",
+        "areanm": "Kingston upon Thames",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E08000034",
+        "areanm": "Kirklees",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E08000011",
+        "areanm": "Knowsley",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E09000022",
+        "areanm": "Lambeth",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000121",
+        "areanm": "Lancaster",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E08000035",
+        "areanm": "Leeds",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E06000016",
+        "areanm": "Leicester",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000063",
+        "areanm": "Lewes",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E09000023",
+        "areanm": "Lewisham",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000194",
+        "areanm": "Lichfield",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000138",
+        "areanm": "Lincoln",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E08000012",
+        "areanm": "Liverpool",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E06000032",
+        "areanm": "Luton",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000110",
+        "areanm": "Maidstone",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000074",
+        "areanm": "Maldon",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000235",
+        "areanm": "Malvern Hills",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E08000003",
+        "areanm": "Manchester",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000174",
+        "areanm": "Mansfield",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000035",
+        "areanm": "Medway",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000133",
+        "areanm": "Melton",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000187",
+        "areanm": "Mendip",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "W06000024",
+        "areanm": "Merthyr Tydfil",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E09000024",
+        "areanm": "Merton",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000042",
+        "areanm": "Mid Devon",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000203",
+        "areanm": "Mid Suffolk",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000228",
+        "areanm": "Mid Sussex",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E06000002",
+        "areanm": "Middlesbrough",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E06000042",
+        "areanm": "Milton Keynes",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000210",
+        "areanm": "Mole Valley",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "W06000021",
+        "areanm": "Monmouthshire",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "W06000012",
+        "areanm": "Neath Port Talbot",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000091",
+        "areanm": "New Forest",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000175",
+        "areanm": "Newark and Sherwood",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E08000021",
+        "areanm": "Newcastle upon Tyne",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E07000195",
+        "areanm": "Newcastle-under-Lyme",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E09000025",
+        "areanm": "Newham",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "W06000022",
+        "areanm": "Newport",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000043",
+        "areanm": "North Devon",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000038",
+        "areanm": "North East Derbyshire",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000012",
+        "areanm": "North East Lincolnshire",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E07000099",
+        "areanm": "North Hertfordshire",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000139",
+        "areanm": "North Kesteven",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000013",
+        "areanm": "North Lincolnshire",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E07000147",
+        "areanm": "North Norfolk",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E06000061",
+        "areanm": "North Northamptonshire",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000024",
+        "areanm": "North Somerset",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E08000022",
+        "areanm": "North Tyneside",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E07000218",
+        "areanm": "North Warwickshire",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000134",
+        "areanm": "North West Leicestershire",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000057",
+        "areanm": "Northumberland",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E07000148",
+        "areanm": "Norwich",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E06000018",
+        "areanm": "Nottingham",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000219",
+        "areanm": "Nuneaton and Bedworth",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000135",
+        "areanm": "Oadby and Wigston",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E08000004",
+        "areanm": "Oldham",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000178",
+        "areanm": "Oxford",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "W06000009",
+        "areanm": "Pembrokeshire",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000122",
+        "areanm": "Pendle",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E06000031",
+        "areanm": "Peterborough",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E06000026",
+        "areanm": "Plymouth",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E06000044",
+        "areanm": "Portsmouth",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "W06000023",
+        "areanm": "Powys",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000123",
+        "areanm": "Preston",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E06000038",
+        "areanm": "Reading",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E09000026",
+        "areanm": "Redbridge",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E06000003",
+        "areanm": "Redcar and Cleveland",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E07000236",
+        "areanm": "Redditch",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000211",
+        "areanm": "Reigate and Banstead",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "W06000016",
+        "areanm": "Rhondda Cynon Taf",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000124",
+        "areanm": "Ribble Valley",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E09000027",
+        "areanm": "Richmond upon Thames",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000166",
+        "areanm": "Richmondshire",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E08000005",
+        "areanm": "Rochdale",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000075",
+        "areanm": "Rochford",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000125",
+        "areanm": "Rossendale",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000064",
+        "areanm": "Rother",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E08000018",
+        "areanm": "Rotherham",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E07000220",
+        "areanm": "Rugby",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000212",
+        "areanm": "Runnymede",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000176",
+        "areanm": "Rushcliffe",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000092",
+        "areanm": "Rushmoor",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E06000017",
+        "areanm": "Rutland",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000167",
+        "areanm": "Ryedale",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E08000006",
+        "areanm": "Salford",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E08000028",
+        "areanm": "Sandwell",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000168",
+        "areanm": "Scarborough",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E07000188",
+        "areanm": "Sedgemoor",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E08000014",
+        "areanm": "Sefton",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000169",
+        "areanm": "Selby",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E07000111",
+        "areanm": "Sevenoaks",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E08000019",
+        "areanm": "Sheffield",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E06000051",
+        "areanm": "Shropshire",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E06000039",
+        "areanm": "Slough",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E08000029",
+        "areanm": "Solihull",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000246",
+        "areanm": "Somerset West and Taunton",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000012",
+        "areanm": "South Cambridgeshire",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000039",
+        "areanm": "South Derbyshire",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000025",
+        "areanm": "South Gloucestershire",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000044",
+        "areanm": "South Hams",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000140",
+        "areanm": "South Holland",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000141",
+        "areanm": "South Kesteven",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000031",
+        "areanm": "South Lakeland",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000149",
+        "areanm": "South Norfolk",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000179",
+        "areanm": "South Oxfordshire",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000126",
+        "areanm": "South Ribble",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000189",
+        "areanm": "South Somerset",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000196",
+        "areanm": "South Staffordshire",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E08000023",
+        "areanm": "South Tyneside",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E06000045",
+        "areanm": "Southampton",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E06000033",
+        "areanm": "Southend-on-Sea",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E09000028",
+        "areanm": "Southwark",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000213",
+        "areanm": "Spelthorne",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000240",
+        "areanm": "St Albans",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E08000013",
+        "areanm": "St. Helens",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000197",
+        "areanm": "Stafford",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000198",
+        "areanm": "Staffordshire Moorlands",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000243",
+        "areanm": "Stevenage",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E08000007",
+        "areanm": "Stockport",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E06000004",
+        "areanm": "Stockton-on-Tees",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E06000021",
+        "areanm": "Stoke-on-Trent",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000221",
+        "areanm": "Stratford-on-Avon",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000082",
+        "areanm": "Stroud",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E08000024",
+        "areanm": "Sunderland",
+        "regioncd": "E12000001"
+    },
+    {
+        "areacd": "E07000214",
+        "areanm": "Surrey Heath",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E09000029",
+        "areanm": "Sutton",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E07000113",
+        "areanm": "Swale",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "W06000011",
+        "areanm": "Swansea",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E06000030",
+        "areanm": "Swindon",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E08000008",
+        "areanm": "Tameside",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000199",
+        "areanm": "Tamworth",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000215",
+        "areanm": "Tandridge",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000045",
+        "areanm": "Teignbridge",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E06000020",
+        "areanm": "Telford and Wrekin",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000076",
+        "areanm": "Tendring",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000093",
+        "areanm": "Test Valley",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000083",
+        "areanm": "Tewkesbury",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000114",
+        "areanm": "Thanet",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000102",
+        "areanm": "Three Rivers",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E06000034",
+        "areanm": "Thurrock",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000115",
+        "areanm": "Tonbridge and Malling",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E06000027",
+        "areanm": "Torbay",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "W06000020",
+        "areanm": "Torfaen",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000046",
+        "areanm": "Torridge",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E09000030",
+        "areanm": "Tower Hamlets",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E08000009",
+        "areanm": "Trafford",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000116",
+        "areanm": "Tunbridge Wells",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000077",
+        "areanm": "Uttlesford",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "W06000014",
+        "areanm": "Vale of Glamorgan",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000180",
+        "areanm": "Vale of White Horse",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E08000036",
+        "areanm": "Wakefield",
+        "regioncd": "E12000003"
+    },
+    {
+        "areacd": "E08000030",
+        "areanm": "Walsall",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E09000031",
+        "areanm": "Waltham Forest",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E09000032",
+        "areanm": "Wandsworth",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E06000007",
+        "areanm": "Warrington",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000222",
+        "areanm": "Warwick",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000103",
+        "areanm": "Watford",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E07000216",
+        "areanm": "Waverley",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000065",
+        "areanm": "Wealden",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000241",
+        "areanm": "Welwyn Hatfield",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E06000037",
+        "areanm": "West Berkshire",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000047",
+        "areanm": "West Devon",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000127",
+        "areanm": "West Lancashire",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000142",
+        "areanm": "West Lindsey",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E06000062",
+        "areanm": "West Northamptonshire",
+        "regioncd": "E12000004"
+    },
+    {
+        "areacd": "E07000181",
+        "areanm": "West Oxfordshire",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E07000245",
+        "areanm": "West Suffolk",
+        "regioncd": "E12000006"
+    },
+    {
+        "areacd": "E09000033",
+        "areanm": "Westminster",
+        "regioncd": "E12000007"
+    },
+    {
+        "areacd": "E08000010",
+        "areanm": "Wigan",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E06000054",
+        "areanm": "Wiltshire",
+        "regioncd": "E12000009"
+    },
+    {
+        "areacd": "E07000094",
+        "areanm": "Winchester",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E06000040",
+        "areanm": "Windsor and Maidenhead",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E08000015",
+        "areanm": "Wirral",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000217",
+        "areanm": "Woking",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E06000041",
+        "areanm": "Wokingham",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "E08000031",
+        "areanm": "Wolverhampton",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000237",
+        "areanm": "Worcester",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000229",
+        "areanm": "Worthing",
+        "regioncd": "E12000008"
+    },
+    {
+        "areacd": "W06000006",
+        "areanm": "Wrexham",
+        "regioncd": "W92000004"
+    },
+    {
+        "areacd": "E07000238",
+        "areanm": "Wychavon",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E07000128",
+        "areanm": "Wyre",
+        "regioncd": "E12000002"
+    },
+    {
+        "areacd": "E07000239",
+        "areanm": "Wyre Forest",
+        "regioncd": "E12000005"
+    },
+    {
+        "areacd": "E06000014",
+        "areanm": "York",
+        "regioncd": "E12000003"
+    }
+]
