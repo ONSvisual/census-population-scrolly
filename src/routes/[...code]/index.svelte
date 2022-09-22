@@ -244,7 +244,50 @@ else{story = story_raw}
 
   $: legend_height = width && width <= 500 ? 180 : 130;
 
+
+//SEO STUFF
+
+let schema=
+  {
+    "@context": "https://schema.org/",
+    "@type": "Article",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.ons.gov.uk/visualisations/censuspopulationchange"+ all_data.CODE +"/"
+    },
+    "url":"https://www.ons.gov.uk/visualisations/censuspopulationchange"+ all_data.CODE +"/",
+    "headline": "How the population changed in "+ all_data.NAME +": Census 2021",
+    "description": robojournalist(
+                  story[2].foreground[1].section.content,all_data).split(' This is')[0],
+    "author": {
+      "@type": "GovernmentOrganization",
+      "name": "Office for National Statistics",
+      "url": "https://www.ons.gov.uk/"
+  
+    },
+    "publisher": {
+      "@type": "GovernmentOrganization",
+      "name": "Office for National Statistics",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cdn.ons.gov.uk/assets/images/ons-logo/v2/ons-logo.png"
+  
+      }
+    },
+    "datePublished": "2022-06-28",
+    "dateModified": "2022-06-28"
+  }
+  
+  let scriptCloser = '<' + '/'  + 'script>'
+  function serializeSchema(thing) {
+    return '<script type="application/ld+json">' + JSON.stringify(thing, null, 2) + scriptCloser
+}
+
+
 </script>
+
+
+
 <svelte:head>
   <title>{selected ? `${selected.areanm} population change, Census 2021 – ONS` : 'How the population changed where you live, Census 2021 - ONS'}</title>
   <link rel="canonical" href="{selected ? `${assets}/${selected.areacd}/`: `${assets}/`}" />
@@ -263,6 +306,7 @@ else{story = story_raw}
   {#if !selected}
   <meta name="google-site-verification" content="Pa8IqEBwNpNpNy2z6Y6hWCjMWnVCntQXlGsz_hrFkyI" />
   {/if}
+  {@html serializeSchema(schema)}
 </svelte:head>
 
 {#if longest_legend && all_data && story.length}
