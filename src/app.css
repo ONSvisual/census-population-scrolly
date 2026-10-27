@@ -359,3 +359,45 @@ svelte-scroller-foreground section div {
 .fin{
 	text-align:center;
 }
+.ons-panel {
+    border-radius: 0;
+    position: relative;
+
+}
+.ons-panel--warn {
+        border: 0 !important;
+    margin-bottom: 1rem;
+    outline: none !important;
+    background: rgba(0, 0, 0, 0);
+}
+.ons-panel--no-title.ons-panel--warn {
+    padding: 0;
+}
+.ons-panel--warn .ons-panel__icon {
+    position: absolute;
+    background: white;
+    border-radius: 50%;
+    color: #206095;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 2rem;
+    min-height: 2rem;
+    min-width: 2rem;
+    outline: 2px solid rgba(0, 0, 0, 0);
+    text-align: center;
+    transform: translateY(4px);
+}
+.ons-panel--no-title .ons-panel__body {
+        background: none;
+}
+.ons-panel--warn .ons-panel__body {
+    font-weight: 700;
+    min-height: 2rem;
+    padding: .222rem 0 .222rem 2.8rem;
+}
+.ons-panel > *:last-child {
+    margin-bottom: 0 !important;
+}
+.ons-panel a {
+    color: white;
+}

@@ -86,6 +86,7 @@
       selected = items.find((e) => e.areacd == all_data.CODE);
       //eliminate(all_data, new_story, country)
     }
+    console.log({ all_data, country, data, selected, regionsGeo, ukGeo})
 
     return { props: { all_data, country, data, selected, regionsGeo, ukGeo} };
   }
@@ -247,7 +248,7 @@ else{story = story_raw}
 
 //SEO STUFF
 
-let schema=
+let schema = all_data ?
   {
     "@context": "https://schema.org/",
     "@type": "Article",
@@ -276,11 +277,11 @@ let schema=
     },
     "datePublished": "2022-06-28",
     "dateModified": "2022-06-28"
-  }
+  } : null;
   
   let scriptCloser = '<' + '/'  + 'script>'
   function serializeSchema(thing) {
-    return '<script type="application/ld+json">' + JSON.stringify(thing, null, 2) + scriptCloser
+    return thing ? '<script type="application/ld+json">' + JSON.stringify(thing, null, 2) + scriptCloser : "";
 }
 
 
@@ -289,13 +290,14 @@ let schema=
 
 
 <svelte:head>
+  <meta name="robots" content="noindex">
   <title>{selected ? `${selected.areanm} population change, Census 2021 – ONS` : 'How the population changed where you live, Census 2021 - ONS'}</title>
   <link rel="canonical" href="{selected ? `${assets}/${selected.areacd}/`: `${assets}/`}" />
   <meta property="og:title" content="How the population changed {selected ? `in ${selected.areanm}` : 'where you live'}, Census 2021 - ONS" />
-	<meta property="og:type" content="article" />
-	<meta property="og:url" content="{selected ? `${assets}/${selected.areacd}/`: `${assets}/`}" />
-	<meta property="og:image" content="{assets}/img/og-image.png" />
-	<meta property="og:image:type" content="image/png" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="{selected ? `${assets}/${selected.areacd}/`: `${assets}/`}" />
+  <meta property="og:image" content="{assets}/img/og-image.png" />
+  <meta property="og:image:type" content="image/png" />
   <meta property="og:image:width" content="800" />
   <meta property="og:image:height" content="492" />
   <meta property="twitter:card" content="summary_large_image" />
@@ -348,7 +350,15 @@ let schema=
 
  
   <p style="margin-top: 20px">28 June 2022</p>
-  <br /> <br />
+  <br />
+  <div class="ons-panel ons-panel--warn ons-panel--no-title">
+  <span class="ons-panel__icon" aria-hidden="true">!</span>
+  <span class="ons-panel__assistive-text visually-hidden">Warning: </span>
+  <div class="ons-panel__body">
+    Important: This article uses rounded first estimates from Census 2021. More accurate data can be found in
+    <a href={all_data ? `https://www.ons.gov.uk/visualisations/censusareachanges/${all_data.CODE}/` : "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/howyourareahaschangedin10yearscensus2021/2022-11-08"}>this later article</a>.
+</div>
+</div>
 
   <p class="text-big" style="margin-top: 5px">
     {@html selected
